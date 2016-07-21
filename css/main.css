@@ -1,0 +1,27 @@
+/* Inserta tu CSS aqui */
+div{
+	width: 100px;
+	height: 100px;
+	background-color: #A09696;
+	border: 1px solid black;
+	margin: 5px;
+}
+.padre{
+	width: 400px;
+	height: 100px;
+	margin: 5px;
+	padding: 20px 5px;
+}
+.hijo{
+	margin: 10px;
+	display: inline-block;
+	position: top;
+}
+.seis,.siete{
+	margin: 10px;
+	display: inline-block;
+}
+.ocho{
+
+	margin: 10px;
+}
